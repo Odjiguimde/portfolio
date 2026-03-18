@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f4c81,100:00b4d8&height=180&section=header&text=Odjiguimde&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Data%20Engineer%20%7C%20Data%20Scientist%20%7C%20IoT%20Developer&descAlignY=58&descSize=17&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f4c81,100:00b4d8&height=180&section=header&text=Oumaro-Titans-djiguimde&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Data%20Engineer%20%7C%20Data%20Scientist%20%7C%20IoT%20Developer&descAlignY=58&descSize=17&animation=fadeIn"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Data+Engineering+%7C+Pipelines+%26+Big+Data+%F0%9F%9A%80;Data+Science+%7C+ML+%26+Deep+Learning+%F0%9F%A4%96;IoT+%7C+Systemes+embarques+%F0%9F%94%A7;Mobile+%7C+Flutter+%26+Dart+%F0%9F%93%B1)](https://git.io/typing-svg)
 

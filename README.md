@@ -47,7 +47,7 @@
 |--------|-------------|-------|
 | 🔄 [**realtime-data-pipeline**](https://github.com/Odjiguimde/realtime-data-pipeline) | Pipeline de données en temps réel | Kafka, Python, Docker |
 | 🏗️ [**data-pipeline-project**](https://github.com/Odjiguimde/data-pipeline-project) | Architecture complète de pipeline de données | Python, SQL, PostgreSQL |
-| 📚 [**data-engineering-foundations**](https://github.com/Odjiguimde/data-engineering-foundations) | Fondamentaux et bonnes pratiques DE | Python, SQL, Bash |
+| 📚 [**data-engineering-foundations**](https://github.com/Odjiguimde/data-engineering-foundations) | Fondamentaux et bonnes pratiques | Python, SQL, Bash |
 | 🐘 [**hadoop-tp**](https://github.com/Odjiguimde/hadoop-tp) | Traitement Big Data avec Hadoop et MapReduce | Hadoop, HDFS, MapReduce |
 
 **Stack principale :**

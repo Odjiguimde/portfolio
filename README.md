@@ -10,22 +10,32 @@
 
 ## 👨‍💻 À propos de moi
 
-```python
-class Odjiguimde:
-    def __init__(self):
-        self.role     = ["Data Engineer", "Data Scientist", "IoT Developer"]
-        self.school   = "ESMT - Ecole Superieure Multinationale des Telecommunications"
-        self.location = "Dakar, Senegal"
-        self.passion  = "Transformer la donnee brute en intelligence actionnable"
-
-    def current_focus(self):
-        return [
-            "Pipelines de donnees temps reel",
-            "Modeles ML en production",
-            "Systemes IoT et collecte de donnees",
-            "Applications mobiles Flutter"
-        ]
-```
+<table>
+  <tr>
+    <td>🎓 <strong>École</strong></td>
+    <td>ESMT — École Supérieure Multinationale des Télécommunications</td>
+  </tr>
+  <tr>
+    <td>📍 <strong>Localisation</strong></td>
+    <td>Dakar, Sénégal 🇸🇳</td>
+  </tr>
+  <tr>
+    <td>💼 <strong>Rôles</strong></td>
+    <td>Data Engineer · Data Scientist · IoT Developer</td>
+  </tr>
+  <tr>
+    <td>🔥 <strong>Passion</strong></td>
+    <td>Transformer la donnée brute en intelligence actionnable</td>
+  </tr>
+  <tr>
+    <td>⚡ <strong>Focus actuel</strong></td>
+    <td>Pipelines temps réel · ML en production · Systèmes IoT · Flutter</td>
+  </tr>
+  <tr>
+    <td>🌍 <strong>Langues</strong></td>
+    <td>Français · Anglais (technique)</td>
+  </tr>
+</table>
 
 ---
 

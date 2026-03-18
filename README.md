@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f4c81,100:00b4d8&height=180&section=header&text=Odjiguimde&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Data%20Engineer%20%7C%20Data%20Scientist%20%7C%20IoT%20Developer&descAlignY=58&descSize=17&animation=fadeIn"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Data+Engineering+%7C+Pipelines+%26+Big+Data+%F0%9F%9A%80;Data+Science+%7C+ML+%26+Deep+Learning+%F0%9F%A4%96;IoT+%7C+Systèmes+embarqués+%F0%9F%94%A7;Mobile+%7C+Flutter+%26+Dart+%F0%9F%93%B1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Data+Engineering+%7C+Pipelines+%26+Big+Data+%F0%9F%9A%80;Data+Science+%7C+ML+%26+Deep+Learning+%F0%9F%A4%96;IoT+%7C+Systemes+embarques+%F0%9F%94%A7;Mobile+%7C+Flutter+%26+Dart+%F0%9F%93%B1)](https://git.io/typing-svg)
 
 </div>
 
@@ -13,17 +13,17 @@
 ```python
 class Odjiguimde:
     def __init__(self):
-        self.role      = ["Data Engineer", "Data Scientist", "IoT Developer"]
-        self.school    = "ESMT — École Supérieure Multinationale des Télécommunications"
-        self.location  = "Dakar, Sénégal 🇸🇳"
-        self.passion   = "Transformer la donnée brute en intelligence actionnable"
+        self.role     = ["Data Engineer", "Data Scientist", "IoT Developer"]
+        self.school   = "ESMT - Ecole Superieure Multinationale des Telecommunications"
+        self.location = "Dakar, Senegal"
+        self.passion  = "Transformer la donnee brute en intelligence actionnable"
 
     def current_focus(self):
         return [
-            "⚡ Pipelines de données temps réel",
-            "🤖 Modèles ML en production",
-            "📡 Systèmes IoT & collecte de données",
-            "📱 Applications mobiles Flutter"
+            "Pipelines de donnees temps reel",
+            "Modeles ML en production",
+            "Systemes IoT et collecte de donnees",
+            "Applications mobiles Flutter"
         ]
 ```
 
@@ -38,7 +38,7 @@ class Odjiguimde:
 | 🔄 [**realtime-data-pipeline**](https://github.com/Odjiguimde/realtime-data-pipeline) | Pipeline de données en temps réel | Kafka, Python, Docker |
 | 🏗️ [**data-pipeline-project**](https://github.com/Odjiguimde/data-pipeline-project) | Architecture complète de pipeline de données | Python, SQL, PostgreSQL |
 | 📚 [**data-engineering-foundations**](https://github.com/Odjiguimde/data-engineering-foundations) | Fondamentaux et bonnes pratiques DE | Python, SQL, Bash |
-| 🐘 [**hadoop-tp**](https://github.com/Odjiguimde/hadoop-tp) | Traitement Big Data avec Hadoop & MapReduce | Hadoop, HDFS, MapReduce |
+| 🐘 [**hadoop-tp**](https://github.com/Odjiguimde/hadoop-tp) | Traitement Big Data avec Hadoop et MapReduce | Hadoop, HDFS, MapReduce |
 
 **Stack principale :**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -58,7 +58,7 @@ class Odjiguimde:
 | 🔍 [**fraud-detection-project**](https://github.com/Odjiguimde/fraud-detection-project) | Détection de fraudes financières par ML | Python, Scikit-Learn, XGBoost |
 | 📈 [**sales-ai-project**](https://github.com/Odjiguimde/sales-ai-project) | Prédiction et optimisation des ventes par IA | Python, Pandas, ML |
 | 🧪 [**eda-analysis**](https://github.com/Odjiguimde/eda-analysis) | Analyse exploratoire complète de données | Pandas, Seaborn, Matplotlib |
-| 🤖 [**ml-data-processing**](https://github.com/Odjiguimde/ml-data-processing) | Traitement de données & modèles Deep Learning | PyTorch, Keras, NumPy |
+| 🤖 [**ml-data-processing**](https://github.com/Odjiguimde/ml-data-processing) | Traitement de données et modèles Deep Learning | PyTorch, Keras, NumPy |
 
 **Stack principale :**
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
@@ -76,7 +76,7 @@ class Odjiguimde:
 
 | Projet | Description | Stack |
 |--------|-------------|-------|
-| 🌡️ [**dht11-weather-monitor**](https://github.com/Odjiguimde/dht11-weather-monitor) | Surveillance température & humidité en temps réel avec le capteur DHT11 | Arduino, Python, DHT11 |
+| 🌡️ [**dht11-weather-monitor**](https://github.com/Odjiguimde/dht11-weather-monitor) | Surveillance température et humidité en temps réel avec le capteur DHT11 | Arduino, Python, DHT11 |
 
 **Stack principale :**
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
@@ -87,14 +87,14 @@ class Odjiguimde:
 
 ## 📱 Mobile — Flutter
 
-> Développement d'applications mobiles cross-platform avec Flutter & Dart, réalisées dans le cadre du cursus INGC2 à l'ESMT.
+> Développement d'applications mobiles cross-platform avec Flutter et Dart, réalisées dans le cadre du cursus INGC2 à l'ESMT.
 
 | Projet | Description | Stack |
 |--------|-------------|-------|
 | 📧 [**Application4-flutterflow-gmail**](https://github.com/Odjiguimde/Application4-flutterflow-gmail) | Intégration Gmail avec FlutterFlow | Flutter, FlutterFlow |
 | 📱 [**Application5-flutter-poo-ingc2-esmt**](https://github.com/Odjiguimde/Application5-flutter-poo-ingc2-esmt) | Application POO avancée | Flutter, Dart |
 | 🎯 [**Application3-flutter-poo-ingc2-esmt**](https://github.com/Odjiguimde/Application3-flutter-poo-ingc2-esmt) | Concepts POO en Flutter | Flutter, Dart |
-| 🔰 [**Application1-dart-poo-ingc2-esmt**](https://github.com/Odjiguimde/Application1-dart-poo-ingc2-esmt) | Introduction à Dart & POO | Dart |
+| 🔰 [**Application1-dart-poo-ingc2-esmt**](https://github.com/Odjiguimde/Application1-dart-poo-ingc2-esmt) | Introduction à Dart et POO | Dart |
 | 🔰 [**Application2-dart-poo-ingc2-esmt**](https://github.com/Odjiguimde/Application2-dart-poo-ingc2-esmt) | Approfondissement Dart | Dart |
 | 📦 [**Projet_Gestionnaire-de-Smartphone**](https://github.com/Odjiguimde/Projet_Gestionnaire-de-Smartphone) | Gestionnaire de smartphones | Flutter, Dart |
 

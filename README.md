@@ -69,6 +69,7 @@
 | 📈 [**sales-ai-project**](https://github.com/Odjiguimde/sales-ai-project) | Prédiction et optimisation des ventes par IA | Python, Pandas, ML |
 | 🧪 [**eda-analysis**](https://github.com/Odjiguimde/eda-analysis) | Analyse exploratoire complète de données | Pandas, Seaborn, Matplotlib |
 | 🤖 [**ml-data-processing**](https://github.com/Odjiguimde/ml-data-processing) | Traitement de données et modèles Deep Learning | PyTorch, Keras, NumPy |
+| 📊 [**EDA-Marketing-Campaign---Dashboard-Streamlit**](https://github.com/Odjiguimde/EDA-Marketing-Campaign---Dashboard-Streamlit) | Analyse exploratoire et dashboard interactif de campagnes marketing | Python, Pandas, Streamlit |
 
 **Stack principale :**
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)

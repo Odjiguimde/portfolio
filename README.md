@@ -68,7 +68,7 @@
 | 🔍 [**fraud-detection-project**](https://github.com/Odjiguimde/fraud-detection-project) | Détection de fraudes financières par ML | Python, Scikit-Learn, XGBoost |
 | 📈 [**sales-ai-project**](https://github.com/Odjiguimde/sales-ai-project) | Prédiction et optimisation des ventes par IA | Python, Pandas, ML |
 | 📊 [**EDA-Marketing-Campaign---Dashboard-Streamlit**](https://github.com/Odjiguimde/EDA-Marketing-Campaign---Dashboard-Streamlit) | Analyse exploratoire et dashboard interactif de campagnes marketing | Python, Pandas, Streamlit |
-| 🧪 [**eda-analysis**](https://github.com/Odjiguimde/eda-analysis) | Analyse exploratoire complète de données | Pandas, Seaborn, Matplotlib |
+| 🔬 [**A-B-Testing-Landing-Page-Optimization**](https://github.com/Odjiguimde/A-B-Testing-Landing-Page-Optimization) | A/B Testing sur landing page avec dashboard statistique interactif | Python, Pandas, SciPy, Streamlit |
 | 🤖 [**ml-data-processing**](https://github.com/Odjiguimde/ml-data-processing) | Traitement de données et modèles Deep Learning | PyTorch, Keras, NumPy |
 
 

@@ -47,6 +47,7 @@
 |--------|-------------|-------|
 | 🔄 [**realtime-data-pipeline**](https://github.com/Odjiguimde/realtime-data-pipeline) | Pipeline de données en temps réel | Kafka, Python, Docker |
 | 🏗️ [**data-pipeline-project**](https://github.com/Odjiguimde/data-pipeline-project) | Architecture complète de pipeline de données | Python, SQL, PostgreSQL |
+| 📊 [**EDA-Marketing-Campaign---Dashboard-Streamlit**](https://github.com/Odjiguimde/EDA-Marketing-Campaign---Dashboard-Streamlit) | Analyse exploratoire et dashboard interactif de campagnes marketing | Python, Pandas, Streamlit |
 | 📚 [**data-engineering-foundations**](https://github.com/Odjiguimde/data-engineering-foundations) | Fondamentaux et bonnes pratiques | Python, SQL, Bash |
 | 🐘 [**hadoop-tp**](https://github.com/Odjiguimde/hadoop-tp) | Traitement Big Data avec Hadoop et MapReduce | Hadoop, HDFS, MapReduce |
 
@@ -67,7 +68,6 @@
 |--------|-------------|-------|
 | 🔍 [**fraud-detection-project**](https://github.com/Odjiguimde/fraud-detection-project) | Détection de fraudes financières par ML | Python, Scikit-Learn, XGBoost |
 | 📈 [**sales-ai-project**](https://github.com/Odjiguimde/sales-ai-project) | Prédiction et optimisation des ventes par IA | Python, Pandas, ML |
-| 📊 [**EDA-Marketing-Campaign---Dashboard-Streamlit**](https://github.com/Odjiguimde/EDA-Marketing-Campaign---Dashboard-Streamlit) | Analyse exploratoire et dashboard interactif de campagnes marketing | Python, Pandas, Streamlit |
 | 🔬 [**A-B-Testing-Landing-Page-Optimization**](https://github.com/Odjiguimde/A-B-Testing-Landing-Page-Optimization) | A/B Testing sur landing page avec dashboard statistique interactif | Python, Pandas, SciPy, Streamlit |
 | 🤖 [**ml-data-processing**](https://github.com/Odjiguimde/ml-data-processing) | Traitement de données et modèles Deep Learning | PyTorch, Keras, NumPy |
 

@@ -8,49 +8,49 @@
 
 ---
 
-## 👨‍💻 À propos de moi
+##  À propos de moi
 
 <table>
   <tr>
-    <td>🎓 <strong>École</strong></td>
+    <td> <strong>École</strong></td>
     <td>ESMT — École Supérieure Multinationale des Télécommunications</td>
   </tr>
   <tr>
-    <td>📍 <strong>Localisation</strong></td>
+    <td> <strong>Localisation</strong></td>
     <td>Dakar, Sénégal 🇸🇳</td>
   </tr>
   <tr>
-    <td>💼 <strong>Rôles</strong></td>
+    <td> <strong>Rôles</strong></td>
     <td>Data Engineer · Data Scientist · IoT Developer</td>
   </tr>
   <tr>
-    <td>🔥 <strong>Passion</strong></td>
+    <td> <strong>Passion</strong></td>
     <td>Transformer la donnée brute en intelligence actionnable</td>
   </tr>
   <tr>
-    <td>⚡ <strong>Focus actuel</strong></td>
+    <td> <strong>Focus actuel</strong></td>
     <td>Pipelines temps réel · ML en production · Systèmes IoT · Flutter</td>
   </tr>
   <tr>
-    <td>🌍 <strong>Langues</strong></td>
+    <td> <strong>Langues</strong></td>
     <td>Français · Anglais (technique)</td>
   </tr>
 </table>
 
 ---
 
-## ⚙️ Data Engineering
+##  Data Engineering
 
 > Conception et déploiement de pipelines de données robustes, architectures Big Data et traitement temps réel.
 
 | Projet | Description | Stack |
 |--------|-------------|-------|
-| 🧠 [**credit-scoring-system**](https://github.com/Odjiguimde/Predictive-Modeling-with-a-Classifier) | Système intelligent de scoring de crédit basé sur des données financières alternatives (transactions, mobile money) pour prédire la solvabilité | Python, Pandas, Scikit-learn, SQL, Streamlit, Docker, Flask/Fast Api |
-| 🔄 [**realtime-data-pipeline**](https://github.com/Odjiguimde/realtime-data-pipeline) | Pipeline de données en temps réel | Kafka, Python, Docker |
-| 🏗️ [**data-pipeline-project**](https://github.com/Odjiguimde/data-pipeline-project) | Architecture complète de pipeline de données | Python, SQL, PostgreSQL |
-| 📊 [**EDA-Marketing-Campaign---Dashboard-Streamlit**](https://github.com/Odjiguimde/EDA-Marketing-Campaign---Dashboard-Streamlit) | Analyse exploratoire et dashboard interactif de campagnes marketing | Python, Pandas, Streamlit |
-| 📚 [**data-engineering-foundations**](https://github.com/Odjiguimde/data-engineering-foundations) | Fondamentaux et bonnes pratiques | Python, SQL, Bash |
-| 🐘 [**hadoop-tp**](https://github.com/Odjiguimde/hadoop-tp) | Traitement Big Data avec Hadoop et MapReduce | Hadoop, HDFS, MapReduce |
+|  [**Credit-scoring-system**](https://github.com/Odjiguimde/Predictive-Modeling-with-a-Classifier) | Système intelligent de scoring de crédit basé sur des données financières alternatives (transactions, mobile money) pour prédire la solvabilité | Python, Pandas, Scikit-learn, SQL, Streamlit, Docker, Flask/Fast Api |
+|  [**Realtime-data-pipeline**](https://github.com/Odjiguimde/realtime-data-pipeline) | Pipeline de données en temps réel | Kafka, Python, Docker |
+|  [**Data-pipeline-project**](https://github.com/Odjiguimde/data-pipeline-project) | Architecture complète de pipeline de données | Python, SQL, PostgreSQL |
+|  [**EDA-Marketing-Campaign---Dashboard-Streamlit**](https://github.com/Odjiguimde/EDA-Marketing-Campaign---Dashboard-Streamlit) | Analyse exploratoire et dashboard interactif de campagnes marketing | Python, Pandas, Streamlit |
+|  [**Data-engineering-foundations**](https://github.com/Odjiguimde/data-engineering-foundations) | Fondamentaux et bonnes pratiques | Python, SQL, Bash |
+|  [**Hadoop-tp**](https://github.com/Odjiguimde/hadoop-tp) | Traitement Big Data avec Hadoop et MapReduce | Hadoop, HDFS, MapReduce |
 
 **Stack principale :**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -67,11 +67,11 @@
 
 | Projet | Description | Stack |
 |--------|-------------|-------|
-| 🔍 [**fraud-detection-project**](https://github.com/Odjiguimde/fraud-detection-project) | Détection de fraudes financières par ML | Python, Scikit-Learn, XGBoost |
-| 📈 [**sales-ai-project**](https://github.com/Odjiguimde/sales-ai-project) | Prédiction et optimisation des ventes par IA | Python, Pandas, ML |
-| 🔬 [**A-B-Testing-Landing-Page-Optimization**](https://github.com/Odjiguimde/A-B-Testing-Landing-Page-Optimization) | A/B Testing sur landing page avec dashboard statistique interactif | Python, Pandas, SciPy, Streamlit |
-| 👥 [**customer-segmentation-clustering**](https://github.com/Odjiguimde/customer-segmentation-clustering) | Application interactive de segmentation clients par clustering non-supervisé (KMeans, CAH, DBSCAN) avec réduction de dimensions (PCA, t-SNE), visualisations 2D/3D et métriques d'évaluation | Python, Scikit-learn, Streamlit, Plotly, Pandas |
-| 🤖 [**ml-data-processing**](https://github.com/Odjiguimde/ml-data-processing) | Traitement de données et modèles Deep Learning | PyTorch, Keras, NumPy |
+|  [**Fraud-detection-project**](https://github.com/Odjiguimde/fraud-detection-project) | Détection de fraudes financières par ML | Python, Scikit-Learn, XGBoost |
+|  [**Sales-ai-project**](https://github.com/Odjiguimde/sales-ai-project) | Prédiction et optimisation des ventes par IA | Python, Pandas, ML |
+|  [**A-B-Testing-Landing-Page-Optimization**](https://github.com/Odjiguimde/A-B-Testing-Landing-Page-Optimization) | A/B Testing sur landing page avec dashboard statistique interactif | Python, Pandas, SciPy, Streamlit |
+|  [**Customer-segmentation-clustering**](https://github.com/Odjiguimde/customer-segmentation-clustering) | Application interactive de segmentation clients par clustering non-supervisé (KMeans, CAH, DBSCAN) avec réduction de dimensions (PCA, t-SNE), visualisations 2D/3D et métriques d'évaluation | Python, Scikit-learn, Streamlit, Plotly, Pandas |
+|  [**Ml-data-processing**](https://github.com/Odjiguimde/ml-data-processing) | Traitement de données et modèles Deep Learning | PyTorch, Keras, NumPy |
 
 
 **Stack principale :**
@@ -90,7 +90,7 @@
 
 | Projet | Description | Stack |
 |--------|-------------|-------|
-| 🌡️ [**dht11-weather-monitor**](https://github.com/Odjiguimde/dht11-weather-monitor) | Surveillance température et humidité en temps réel avec le capteur DHT11 | Arduino, Python, DHT11 |
+| 🌡️ [**Dht11-weather-monitor**](https://github.com/Odjiguimde/dht11-weather-monitor) | Surveillance température et humidité en temps réel avec le capteur DHT11 | Arduino, Python, DHT11 |
 
 **Stack principale :**
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)

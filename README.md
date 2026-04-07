@@ -61,7 +61,7 @@
 
 ---
 
-## 📊 Data Science / Machine Learning
+##  Data Science / Machine Learning
 
 > Analyse exploratoire, modélisation prédictive et déploiement de modèles de machine learning et deep learning.
 
@@ -84,13 +84,13 @@
 
 ---
 
-## 📡 IoT / Hardware
+##  IoT / Hardware
 
 > Développement de systèmes embarqués, collecte de données capteurs et surveillance environnementale.
 
 | Projet | Description | Stack |
 |--------|-------------|-------|
-| 🌡️ [**Dht11-weather-monitor**](https://github.com/Odjiguimde/dht11-weather-monitor) | Surveillance température et humidité en temps réel avec le capteur DHT11 | Arduino, Python, DHT11 |
+|  [**Dht11-weather-monitor**](https://github.com/Odjiguimde/dht11-weather-monitor) | Surveillance température et humidité en temps réel avec le capteur DHT11 | Arduino, Python, DHT11 |
 
 **Stack principale :**
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
@@ -99,18 +99,18 @@
 
 ---
 
-## 📱 Mobile — Flutter
+##  Mobile — Flutter
 
 > Développement d'applications mobiles cross-platform avec Flutter et Dart, réalisées dans le cadre du cursus INGC2 à l'ESMT.
 
 | Projet | Description | Stack |
 |--------|-------------|-------|
-| 📧 [**Application4-flutterflow-gmail**](https://github.com/Odjiguimde/Application4-flutterflow-gmail) | Intégration Gmail avec FlutterFlow | Flutter, FlutterFlow |
-| 📱 [**Application5-flutter-poo-ingc2-esmt**](https://github.com/Odjiguimde/Application5-flutter-poo-ingc2-esmt) | Application POO avancée | Flutter, Dart |
-| 🎯 [**Application3-flutter-poo-ingc2-esmt**](https://github.com/Odjiguimde/Application3-flutter-poo-ingc2-esmt) | Concepts POO en Flutter | Flutter, Dart |
-| 🔰 [**Application1-dart-poo-ingc2-esmt**](https://github.com/Odjiguimde/Application1-dart-poo-ingc2-esmt) | Introduction à Dart et POO | Dart |
-| 🔰 [**Application2-dart-poo-ingc2-esmt**](https://github.com/Odjiguimde/Application2-dart-poo-ingc2-esmt) | Approfondissement Dart | Dart |
-| 📦 [**Projet_Gestionnaire-de-Smartphone**](https://github.com/Odjiguimde/Projet_Gestionnaire-de-Smartphone) | Gestionnaire de smartphones | Flutter, Dart |
+|  [**Application4-flutterflow-gmail**](https://github.com/Odjiguimde/Application4-flutterflow-gmail) | Intégration Gmail avec FlutterFlow | Flutter, FlutterFlow |
+|  [**Application5-flutter-poo-ingc2-esmt**](https://github.com/Odjiguimde/Application5-flutter-poo-ingc2-esmt) | Application POO avancée | Flutter, Dart |
+|  [**Application3-flutter-poo-ingc2-esmt**](https://github.com/Odjiguimde/Application3-flutter-poo-ingc2-esmt) | Concepts POO en Flutter | Flutter, Dart |
+|  [**Application1-dart-poo-ingc2-esmt**](https://github.com/Odjiguimde/Application1-dart-poo-ingc2-esmt) | Introduction à Dart et POO | Dart |
+|  [**Application2-dart-poo-ingc2-esmt**](https://github.com/Odjiguimde/Application2-dart-poo-ingc2-esmt) | Approfondissement Dart | Dart |
+|  [**Projet_Gestionnaire-de-Smartphone**](https://github.com/Odjiguimde/Projet_Gestionnaire-de-Smartphone) | Gestionnaire de smartphones | Flutter, Dart |
 
 **Stack principale :**
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
@@ -118,7 +118,7 @@
 
 ---
 
-## 📫 Me contacter
+##  Me contacter
 
 <div align="center">
 

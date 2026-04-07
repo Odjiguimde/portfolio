@@ -70,6 +70,7 @@
 | 🔍 [**fraud-detection-project**](https://github.com/Odjiguimde/fraud-detection-project) | Détection de fraudes financières par ML | Python, Scikit-Learn, XGBoost |
 | 📈 [**sales-ai-project**](https://github.com/Odjiguimde/sales-ai-project) | Prédiction et optimisation des ventes par IA | Python, Pandas, ML |
 | 🔬 [**A-B-Testing-Landing-Page-Optimization**](https://github.com/Odjiguimde/A-B-Testing-Landing-Page-Optimization) | A/B Testing sur landing page avec dashboard statistique interactif | Python, Pandas, SciPy, Streamlit |
+| 👥 [**customer-segmentation-clustering**](https://github.com/Odjiguimde/customer-segmentation-clustering) | Application interactive de segmentation clients par clustering non-supervisé (KMeans, CAH, DBSCAN) avec réduction de dimensions (PCA, t-SNE), visualisations 2D/3D et métriques d'évaluation | Python, Scikit-learn, Streamlit, Plotly, Pandas |
 | 🤖 [**ml-data-processing**](https://github.com/Odjiguimde/ml-data-processing) | Traitement de données et modèles Deep Learning | PyTorch, Keras, NumPy |
 
 

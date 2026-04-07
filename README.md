@@ -45,6 +45,7 @@
 
 | Projet | Description | Stack |
 |--------|-------------|-------|
+| 🧠 [**credit-scoring-system**](https://github.com/Odjiguimde/Predictive-Modeling-with-a-Classifier) | Système intelligent de scoring de crédit basé sur des données financières alternatives (transactions, mobile money) pour prédire la solvabilité | Python, Pandas, Scikit-learn, SQL, Streamlit, Docker, Flask/Fast Api |
 | 🔄 [**realtime-data-pipeline**](https://github.com/Odjiguimde/realtime-data-pipeline) | Pipeline de données en temps réel | Kafka, Python, Docker |
 | 🏗️ [**data-pipeline-project**](https://github.com/Odjiguimde/data-pipeline-project) | Architecture complète de pipeline de données | Python, SQL, PostgreSQL |
 | 📊 [**EDA-Marketing-Campaign---Dashboard-Streamlit**](https://github.com/Odjiguimde/EDA-Marketing-Campaign---Dashboard-Streamlit) | Analyse exploratoire et dashboard interactif de campagnes marketing | Python, Pandas, Streamlit |
